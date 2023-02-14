@@ -1,0 +1,19 @@
+{
+  "name": "skwon",
+  "version": "1.0.0",
+  "description": "개발관련 질문을 올리는 sns",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwon3044/skwon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwon3044/skwon/issues"
+  },
+  "homepage": "https://github.com/gwon3044/skwon#readme"
+}
